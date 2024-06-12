@@ -18,3 +18,8 @@ conda activate llmapp
 pip install -r requirements.txt
 ```
 
+### 4. run your application
+```bash
+streamlit run main.py
+```
+
