@@ -53,6 +53,7 @@ sudo apt install git curl unzip tar make sudo vim wget -y
 ```bash
 git clone "Your-repository"
 ```
+### Create .env file and set the environment variables
 
 ```bash
 sudo apt install python3-pip
